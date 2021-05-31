@@ -11,10 +11,10 @@ pyautogui.write('Hello world!')
 pyautogui.click(804,457)
 
 # To delete a folder in google drive
-pyautogui.moveTo(1100,580)
-pyautogui.click(button='right')
-time.sleep(5)
-pyautogui.moveTo(895,684)
-pyautogui.click()
+# pyautogui.moveTo(1100,580)
+# pyautogui.click(button='right')
+# time.sleep(5)
+# pyautogui.moveTo(895,684)
+# pyautogui.click()
 
 
